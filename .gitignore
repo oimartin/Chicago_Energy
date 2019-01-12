@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Energy_income csv files
+Electricity_Only_some_Housing.csv
+HEAT_mean_2010_merged_income.csv
+HEAT_only_some_housing.csv
+merged_resedential_electricity_income.csv
+
